@@ -1,0 +1,1 @@
+configFile=jdbc:h2:D:\\petar\\h2-database;AUTO_SERVER=TRUE
